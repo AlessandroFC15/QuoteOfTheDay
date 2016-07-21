@@ -1,0 +1,11 @@
+Quote report
+------------
+
+Total: 9
+Number of quotes by author:
+        
+>> MysticMac           1
+>> McG                 1
+>> McGregor            3
+>> Brock Lesnar        3
+>> Nate Diaz           1
